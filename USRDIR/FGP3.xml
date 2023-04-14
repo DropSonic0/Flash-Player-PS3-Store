@@ -1,0 +1,92 @@
+<XMBML version="1.0">
+
+<!-- FGP3 By DropSonic -->
+
+       <!-- XMB -->
+
+	<View id="FGP3_main"> 
+		<Attributes> 
+			<Table key="FGP3_main">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/ICON0.PNG</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="pic"><String>/dev_hdd0/game/FGP300001/PIC1.PNG</String></Pair>
+				<Pair key="pic_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>FGP3</String></Pair>
+				<Pair key="info"><String>By DropSonic</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="FGP3_main"
+				attr="FGP3_main"
+				src="#FGP3_main_items"/>
+			</Items>
+		</View>		
+		
+	<!-- Menú principal -->
+		
+	<View id="FGP3_main_items"> 
+		<Attributes>
+			<Table key="flash_folder">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/img/icon.png</String></Pair>
+				<Pair key="title"><String>FLASH</String></Pair>
+				<Pair key="info"><String>Flash Player juegos,animaciones,ect</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="flash_folder" 
+				attr="flash_folder"
+				src="#flash_folder_main"
+				/>
+			</Items>
+		</View>
+		
+	<View id="flash_folder_main">
+		<Attributes>
+			<Table key="Mario-VS-Sonic">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Mario-VS-Sonic.PNG</String></Pair>
+				<Pair key="title"><String>Mario VS Sonic</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Mario-VS-Sonic.html</String></Pair>
+			</Table>
+			<Table key="Final_Fantasy_Sonic_X5">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Final_Fantasy_Sonic_X5.PNG</String></Pair>
+				<Pair key="title"><String>Final Fantasy Sonic X5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Final_Fantasy_Sonic_X5.html</String></Pair>
+			</Table>
+			<Table key="The_Right_Mix">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/The_Right_Mix.PNG</String></Pair>
+				<Pair key="title"><String>The Right Mix</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/The_Right_Mix.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Mario-VS-Sonic"
+				attr="Mario-VS-Sonic"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Final_Fantasy_Sonic_X5"
+				attr="Final_Fantasy_Sonic_X5"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="The_Right_Mix"
+				attr="The_Right_Mix"
+				/>
+			</Items>
+		</View>
+		
+</XMBML>

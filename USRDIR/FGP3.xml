@@ -69,6 +69,20 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Age_of_War_2.html</String></Pair>
 			</Table>
+			<Table key="Breaking_the_Bank">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Breaking_the_Bank.PNG</String></Pair>
+				<Pair key="title"><String>Breaking the Bank</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Breaking_the_Bank.html</String></Pair>
+			</Table>
+			<Table key="Creative_Kill_Chamber">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Creative_Kill_Chamber.PNG</String></Pair>
+				<Pair key="title"><String>Creative Kill Chamber</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Creative_Kill_Chamber.html</String></Pair>
+			</Table>
 			<Table key="Final_Fantasy_Sonic_X5">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Final_Fantasy_Sonic_X5.PNG</String></Pair>
 				<Pair key="title"><String>Final Fantasy Sonic X5</String></Pair>
@@ -113,6 +127,16 @@
 				class="type:x-xmb/module-action"
 				key="Age_of_War_2"
 				attr="Age_of_War_2"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Breaking_the_Bank"
+				attr="Breaking_the_Bank"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Creative_Kill_Chamber"
+				attr="Creative_Kill_Chamber"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"

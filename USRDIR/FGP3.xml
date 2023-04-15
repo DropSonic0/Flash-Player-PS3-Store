@@ -47,6 +47,22 @@
 		</View>
 		
 	<View id="flash_folder_main">
+	    <Attributes>
+		    <Table key="13-Days-After">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/13-Days-After.PNG</String></Pair>
+				<Pair key="title"><String>13 Days After</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/13-Days-After.html</String></Pair>
+			</Table>
+		<Attributes>
+			<Table key="Age_of_War_2">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Age_of_War_2.PNG</String></Pair>
+				<Pair key="title"><String>Age of War 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Age_of_War_2.html</String></Pair>
+			</Table>
 		<Attributes>
 			<Table key="Mario-VS-Sonic">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Mario-VS-Sonic.PNG</String></Pair>
@@ -71,6 +87,16 @@
 			</Table>
 		</Attributes>
 			<Items>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="13-Days-After"
+				attr="13-Days-After"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Age_of_War_2"
+				attr="Age_of_War_2"
+				/>
 			<Query   
 				class="type:x-xmb/module-action"
 				key="Mario-VS-Sonic"

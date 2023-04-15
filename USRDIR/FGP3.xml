@@ -48,6 +48,13 @@
 		
 	<View id="flash_folder_main">
 	    <Attributes>
+		    <Table key="7-Days-Without-Rain">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/7-Days-Without-Rain.PNG</String></Pair>
+				<Pair key="title"><String>7 Days Without Rain</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/7-Days-Without-Rain.html</String></Pair>
+			</Table>
 		    <Table key="13-Days-After">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/13-Days-After.PNG</String></Pair>
 				<Pair key="title"><String>13 Days After</String></Pair>
@@ -55,7 +62,6 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/13-Days-After.html</String></Pair>
 			</Table>
-		<Attributes>
 			<Table key="Age_of_War_2">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Age_of_War_2.PNG</String></Pair>
 				<Pair key="title"><String>Age of War 2</String></Pair>
@@ -63,7 +69,13 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Age_of_War_2.html</String></Pair>
 			</Table>
-		<Attributes>
+			<Table key="Final_Fantasy_Sonic_X5">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Final_Fantasy_Sonic_X5.PNG</String></Pair>
+				<Pair key="title"><String>Final Fantasy Sonic X5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Final_Fantasy_Sonic_X5.html</String></Pair>
+			</Table>
 			<Table key="Mario-VS-Sonic">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Mario-VS-Sonic.PNG</String></Pair>
 				<Pair key="title"><String>Mario VS Sonic</String></Pair>
@@ -71,12 +83,12 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Mario-VS-Sonic.html</String></Pair>
 			</Table>
-			<Table key="Final_Fantasy_Sonic_X5">
-				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Final_Fantasy_Sonic_X5.PNG</String></Pair>
-				<Pair key="title"><String>Final Fantasy Sonic X5</String></Pair>
+			<Table key="Papa's_Burgeria">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Papa's_Burgeria.PNG</String></Pair>
+				<Pair key="title"><String>Papa's Burgeria</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Final_Fantasy_Sonic_X5.html</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Papa's_Burgeria.html</String></Pair>
 			</Table>
 			<Table key="The_Right_Mix">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/The_Right_Mix.PNG</String></Pair>
@@ -89,6 +101,11 @@
 			<Items>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="7-Days-Without-Rain"
+				attr="7-Days-Without-Rain"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="13-Days-After"
 				attr="13-Days-After"
 				/>
@@ -99,13 +116,18 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Final_Fantasy_Sonic_X5"
+				attr="Final_Fantasy_Sonic_X5"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Mario-VS-Sonic"
 				attr="Mario-VS-Sonic"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
-				key="Final_Fantasy_Sonic_X5"
-				attr="Final_Fantasy_Sonic_X5"
+				key="Papa's_Burgeria"
+				attr="Papa's_Burgeria"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"

@@ -90,6 +90,20 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Final_Fantasy_Sonic_X5.html</String></Pair>
 			</Table>
+			<Table key="Infiltrating_the_Airship">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Infiltrating_the_Airship.PNG</String></Pair>
+				<Pair key="title"><String>Infiltrating the Airship</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Infiltrating_the_Airship.html</String></Pair>
+			</Table>
+			<Table key="Impossible_Quiz_Deluxe">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Impossible_Quiz_Deluxe.PNG</String></Pair>
+				<Pair key="title"><String>Impossible Quiz Deluxe</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Impossible_Quiz_Deluxe.html</String></Pair>
+			</Table>
 			<Table key="Mario-VS-Sonic">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Mario-VS-Sonic.PNG</String></Pair>
 				<Pair key="title"><String>Mario VS Sonic</String></Pair>
@@ -104,12 +118,33 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Papa's_Burgeria.html</String></Pair>
 			</Table>
+			<Table key="Pico's_School">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Pico's_School.PNG</String></Pair>
+				<Pair key="title"><String>Pico's School</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Pico's_School.html</String></Pair>
+			</Table>
 			<Table key="The_Right_Mix">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/The_Right_Mix.PNG</String></Pair>
 				<Pair key="title"><String>The Right Mix</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/The_Right_Mix.html</String></Pair>
+			</Table>
+			<Table key="Xiaoxiao">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Xiaoxiao.PNG</String></Pair>
+				<Pair key="title"><String>Xiaoxiao</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Xiaoxiao.html</String></Pair>
+			</Table>
+			<Table key="Yeti_Sports_1">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Yeti_Sports_1.PNG</String></Pair>
+				<Pair key="title"><String>Yeti Sports 1</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Yeti_Sports_1.html</String></Pair>
 			</Table>
 		</Attributes>
 			<Items>
@@ -145,6 +180,16 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Infiltrating_the_Airship"
+				attr="Infiltrating_the_Airship"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Impossible_Quiz_Deluxe"
+				attr="Impossible_Quiz_Deluxe"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Mario-VS-Sonic"
 				attr="Mario-VS-Sonic"
 				/>
@@ -155,8 +200,23 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Pico's_School"
+				attr="Pico's_School"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="The_Right_Mix"
 				attr="The_Right_Mix"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Xiaoxiao"
+				attr="Xiaoxiao"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Yeti_Sports_1"
+				attr="Yeti_Sports_1"
 				/>
 			</Items>
 		</View>

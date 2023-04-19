@@ -69,6 +69,20 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Age_of_War_2.html</String></Pair>
 			</Table>
+			<Table key="Amorphous_Plus">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Amorphous_Plus.PNG</String></Pair>
+				<Pair key="title"><String>Amorphous Plus</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Amorphous_Plus.html</String></Pair>
+			</Table>
+			<Table key="BLOONS">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/BLOONS.PNG</String></Pair>
+				<Pair key="title"><String>BLOONS</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/BLOONS.html</String></Pair>
+			</Table>
 			<Table key="Breaking_the_Bank">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Breaking_the_Bank.PNG</String></Pair>
 				<Pair key="title"><String>Breaking the Bank</String></Pair>
@@ -82,6 +96,20 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Creative_Kill_Chamber.html</String></Pair>
+			</Table>
+			<Table key="Dont-Shoot-the-Puppy">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Dont-Shoot-the-Puppy.PNG</String></Pair>
+				<Pair key="title"><String>Dont Shoot the Puppy</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Dont-Shoot-the-Puppy.html</String></Pair>
+			</Table>
+			<Table key="Dungeon_Escape!">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Dungeon_Escape!.PNG</String></Pair>
+				<Pair key="title"><String>Dungeon Escape!</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Dungeon_Escape!.html</String></Pair>
 			</Table>
 			<Table key="Final_Fantasy_Sonic_X5">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Final_Fantasy_Sonic_X5.PNG</String></Pair>
@@ -125,6 +153,20 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Pico's_School.html</String></Pair>
 			</Table>
+			<Table key="Puyo-Fever_Roll">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Puyo-Fever_Roll.PNG</String></Pair>
+				<Pair key="title"><String>Puyo Fever Roll</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Puyo-Fever_Roll.html</String></Pair>
+			</Table>
+			<Table key="Swords-and-Sandals-Gladiator">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Swords-and-Sandals-Gladiator.PNG</String></Pair>
+				<Pair key="title"><String>Swords and Sandals Gladiator</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Swords-and-Sandals-Gladiator.html</String></Pair>
+			</Table>
 			<Table key="The_Right_Mix">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/The_Right_Mix.PNG</String></Pair>
 				<Pair key="title"><String>The Right Mix</String></Pair>
@@ -165,6 +207,16 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Amorphous_Plus"
+				attr="Amorphous_Plus"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="BLOONS"
+				attr="BLOONS"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Breaking_the_Bank"
 				attr="Breaking_the_Bank"
 				/>
@@ -172,6 +224,16 @@
 				class="type:x-xmb/module-action"
 				key="Creative_Kill_Chamber"
 				attr="Creative_Kill_Chamber"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Dont-Shoot-the-Puppy"
+				attr="Dont-Shoot-the-Puppy"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Dungeon_Escape!"
+				attr="Dungeon_Escape!"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -202,6 +264,16 @@
 				class="type:x-xmb/module-action"
 				key="Pico's_School"
 				attr="Pico's_School"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Puyo-Fever_Roll"
+				attr="Puyo-Fever_Roll"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Swords-and-Sandals-Gladiator"
+				attr="Swords-and-Sandals-Gladiator"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"

@@ -83,12 +83,12 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/BLOONS.html</String></Pair>
 			</Table>
-			<Table key="Breaking_the_Bank">
-				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Breaking_the_Bank.PNG</String></Pair>
-				<Pair key="title"><String>Breaking the Bank</String></Pair>
+			<Table key="Chocobo_Snowboard_Glide">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Chocobo_Snowboard_Glide.PNG</String></Pair>
+				<Pair key="title"><String>Chocobo Snowboard Glide</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Breaking_the_Bank.html</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Chocobo_Snowboard_Glide.html</String></Pair>
 			</Table>
 			<Table key="Creative_Kill_Chamber">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Creative_Kill_Chamber.PNG</String></Pair>
@@ -97,12 +97,26 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Creative_Kill_Chamber.html</String></Pair>
 			</Table>
+			<Table key="Cursor10">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Cursor10.PNG</String></Pair>
+				<Pair key="title"><String>Cursor*10</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Cursor10.html</String></Pair>
+			</Table>
 			<Table key="Dont-Shoot-the-Puppy">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Dont-Shoot-the-Puppy.PNG</String></Pair>
 				<Pair key="title"><String>Dont Shoot the Puppy</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Dont-Shoot-the-Puppy.html</String></Pair>
+			</Table>
+			<Table key="Drama_Total-the_Big_Picture">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Drama_Total-the_Big_Picture.PNG</String></Pair>
+				<Pair key="title"><String>Drama Total:The Big Picture</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Drama_Total-the_Big_Picture.html</String></Pair>
 			</Table>
 			<Table key="Dungeon_Escape!">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Dungeon_Escape!.PNG</String></Pair>
@@ -111,6 +125,13 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Dungeon_Escape!.html</String></Pair>
 			</Table>
+			<Table key="Extreme_Luge_Canyon">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Extreme_Luge_Canyon.PNG</String></Pair>
+				<Pair key="title"><String>Extreme Luge Canyon</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Extreme_Luge_Canyon.html</String></Pair>
+			</Table>
 			<Table key="Final_Fantasy_Sonic_X5">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Final_Fantasy_Sonic_X5.PNG</String></Pair>
 				<Pair key="title"><String>Final Fantasy Sonic X5</String></Pair>
@@ -118,12 +139,18 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Final_Fantasy_Sonic_X5.html</String></Pair>
 			</Table>
-			<Table key="Infiltrating_the_Airship">
-				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Infiltrating_the_Airship.PNG</String></Pair>
-				<Pair key="title"><String>Infiltrating the Airship</String></Pair>
+			<Table key="henry_folder">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/img/henry_stickmin.png</String></Pair>
+				<Pair key="title"><String>Henry Stickmin</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="Hexiom_Connect">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Hexiom_Connect.PNG</String></Pair>
+				<Pair key="title"><String>Hexiom Connect</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
-				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Infiltrating_the_Airship.html</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Hexiom_Connect.html</String></Pair>
 			</Table>
 			<Table key="Impossible_Quiz_Deluxe">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Impossible_Quiz_Deluxe.PNG</String></Pair>
@@ -131,6 +158,13 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Impossible_Quiz_Deluxe.html</String></Pair>
+			</Table>
+			<Table key="K-Fed">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/K-Fed.PNG</String></Pair>
+				<Pair key="title"><String>K-Fed</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/K-Fed.html</String></Pair>
 			</Table>
 			<Table key="Mario-VS-Sonic">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Mario-VS-Sonic.PNG</String></Pair>
@@ -159,6 +193,27 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Puyo-Fever_Roll.html</String></Pair>
+			</Table>
+			<Table key="Scary_Maze_Game">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Scary_Maze_Game.PNG</String></Pair>
+				<Pair key="title"><String>Scary Maze Game</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Scary_Maze_Game.html</String></Pair>
+			</Table>
+			<Table key="Scooby-Doo_and_the_Creepy_Castle">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Scooby-Doo_and_the_Creepy_Castle.PNG</String></Pair>
+				<Pair key="title"><String>Scooby-Doo and the Creepy Castle</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Scooby-Doo_and_the_Creepy_Castle.html</String></Pair>
+			</Table>
+			<Table key="Sling_Sling">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Sling_Sling.PNG</String></Pair>
+				<Pair key="title"><String>Sling Sling</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Sling_Sling.html</String></Pair>
 			</Table>
 			<Table key="Swords-and-Sandals-Gladiator">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Swords-and-Sandals-Gladiator.PNG</String></Pair>
@@ -217,8 +272,8 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
-				key="Breaking_the_Bank"
-				attr="Breaking_the_Bank"
+				key="Chocobo_Snowboard_Glide"
+				attr="Chocobo_Snowboard_Glide"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -227,8 +282,18 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Cursor10"
+				attr="Cursor10"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Dont-Shoot-the-Puppy"
 				attr="Dont-Shoot-the-Puppy"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Drama_Total-the_Big_Picture"
+				attr="Drama_Total-the_Big_Picture"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -237,18 +302,34 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
-				key="Final_Fantasy_Sonic_X5"
-				attr="Final_Fantasy_Sonic_X5"
+				key="Extreme_Luge_Canyon"
+				attr="Extreme_Luge_Canyon"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
-				key="Infiltrating_the_Airship"
-				attr="Infiltrating_the_Airship"
+				key="Final_Fantasy_Sonic_X5"
+				attr="Final_Fantasy_Sonic_X5"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="henry_folder" 
+				attr="henry_folder"
+				src="#henry_folder_main"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Hexiom_Connect"
+				attr="Hexiom_Connect"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
 				key="Impossible_Quiz_Deluxe"
 				attr="Impossible_Quiz_Deluxe"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="K-Fed"
+				attr="K-Fed"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -269,6 +350,21 @@
 				class="type:x-xmb/module-action"
 				key="Puyo-Fever_Roll"
 				attr="Puyo-Fever_Roll"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Scary_Maze_Game"
+				attr="Scary_Maze_Game"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Scooby-Doo_and_the_Creepy_Castle"
+				attr="Scooby-Doo_and_the_Creepy_Castle"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Sling_Sling"
+				attr="Sling_Sling"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -293,4 +389,70 @@
 			</Items>
 		</View>
 		
+		<View id="henry_folder_main">
+	    <Attributes>
+		    <Table key="Breaking_the_Bank">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Breaking_the_Bank.PNG</String></Pair>
+				<Pair key="title"><String>Breaking the Bank</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Breaking_the_Bank.html</String></Pair>
+			</Table>
+		    <Table key="Escaping_the_Prison">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Escaping_the_Prison.PNG</String></Pair>
+				<Pair key="title"><String>Escaping the Prison</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Escaping_the_Prison.html</String></Pair>
+			</Table>
+			<Table key="Stealing_the_Diamond">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Stealing_the_Diamond.PNG</String></Pair>
+				<Pair key="title"><String>Stealing the Diamond</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Stealing_the_Diamond.html</String></Pair>
+			</Table>
+			<Table key="Infiltrating_the_Airship">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Infiltrating_the_Airship.PNG</String></Pair>
+				<Pair key="title"><String>Infiltrating the Airship</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Infiltrating_the_Airship.html</String></Pair>
+			</Table>
+			<Table key="Fleeing_the_Complex">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Fleeing_the_Complex.PNG</String></Pair>
+				<Pair key="title"><String>Fleeing the Complex</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Fleeing_the_Complex.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Breaking_the_Bank"
+				attr="Breaking_the_Bank"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Escaping_the_Prison"
+				attr="Escaping_the_Prison"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Stealing_the_Diamond"
+				attr="Stealing_the_Diamond"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Infiltrating_the_Airship"
+				attr="Infiltrating_the_Airship"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Fleeing_the_Complex"
+				attr="Fleeing_the_Complex"
+				/>
+			</Items>
+		</View>
 </XMBML>

@@ -62,6 +62,13 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/13-Days-After.html</String></Pair>
 			</Table>
+			<Table key="Adventure-Time_Seasonal_Souvenir_Stacker">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Adventure-Time_Seasonal_Souvenir_Stacker.PNG</String></Pair>
+				<Pair key="title"><String>Adventure Time : Seasonal Souvenir Stacker</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Adventure-Time_Seasonal_Souvenir_Stacker.html</String></Pair>
+			</Table>
 			<Table key="Age_of_War_2">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Age_of_War_2.PNG</String></Pair>
 				<Pair key="title"><String>Age of War 2</String></Pair>
@@ -76,6 +83,20 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Amorphous_Plus.html</String></Pair>
 			</Table>
+			<Table key="Bandicoot">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Bandicoot.PNG</String></Pair>
+				<Pair key="title"><String>Bandicoot</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Bandicoot.html</String></Pair>
+			</Table>
+			<Table key="Bear_Gunner">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Bear_Gunner.PNG</String></Pair>
+				<Pair key="title"><String>Bear Gunner</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Bear_Gunner.html</String></Pair>
+			</Table>
 			<Table key="BLOONS">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/BLOONS.PNG</String></Pair>
 				<Pair key="title"><String>BLOONS</String></Pair>
@@ -89,6 +110,13 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Chocobo_Snowboard_Glide.html</String></Pair>
+			</Table>
+			<Table key="Counter_Strike_De_Hiekka">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Counter_Strike_De_Hiekka.PNG</String></Pair>
+				<Pair key="title"><String>Counter Strike De Hiekka</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Counter_Strike_De_Hiekka.html</String></Pair>
 			</Table>
 			<Table key="Creative_Kill_Chamber">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Creative_Kill_Chamber.PNG</String></Pair>
@@ -152,12 +180,26 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Hexiom_Connect.html</String></Pair>
 			</Table>
+			<Table key="High_Flying_Halloween">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/High_Flying_Halloween.PNG</String></Pair>
+				<Pair key="title"><String>High Flying Halloween</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/High_Flying_Halloween.html</String></Pair>
+			</Table>
 			<Table key="Impossible_Quiz_Deluxe">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Impossible_Quiz_Deluxe.PNG</String></Pair>
 				<Pair key="title"><String>Impossible Quiz Deluxe</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Impossible_Quiz_Deluxe.html</String></Pair>
+			</Table>
+			<Table key="justaregulargame">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/justaregulargame.PNG</String></Pair>
+				<Pair key="title"><String>Just A Regular Game</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/regularshow/justaregulargame/justaregulargame.html</String></Pair>
 			</Table>
 			<Table key="K-Fed">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/K-Fed.PNG</String></Pair>
@@ -179,6 +221,13 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Papa's_Burgeria.html</String></Pair>
+			</Table>
+			<Table key="Penguins">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Penguins.PNG</String></Pair>
+				<Pair key="title"><String>Penguins</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Penguins.html</String></Pair>
 			</Table>
 			<Table key="Pico's_School">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Pico's_School.PNG</String></Pair>
@@ -208,12 +257,26 @@
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Scooby-Doo_and_the_Creepy_Castle.html</String></Pair>
 			</Table>
+			<Table key="Scriball">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Scriball.PNG</String></Pair>
+				<Pair key="title"><String>Scriball</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Scriball.html</String></Pair>
+			</Table>
 			<Table key="Sling_Sling">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Sling_Sling.PNG</String></Pair>
 				<Pair key="title"><String>Sling Sling</String></Pair>
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Sling_Sling.html</String></Pair>
+			</Table>
+			<Table key="Sonic-Crazy-World">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Sonic-Crazy-World.PNG</String></Pair>
+				<Pair key="title"><String>Sonic Crazy World</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Sonic-Crazy-World.html</String></Pair>
 			</Table>
 			<Table key="Swords-and-Sandals-Gladiator">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Swords-and-Sandals-Gladiator.PNG</String></Pair>
@@ -228,6 +291,19 @@
 				<Pair key="info"><String></String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
 				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/The_Right_Mix.html</String></Pair>
+			</Table>
+			<Table key="trollface_folder">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/img/trollface.png</String></Pair>
+				<Pair key="title"><String>Trollface Quests</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="wingingit">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/wingingit.PNG</String></Pair>
+				<Pair key="title"><String>Winging It</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/regularshow/wingingit/wingingit.html</String></Pair>
 			</Table>
 			<Table key="Xiaoxiao">
 				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Xiaoxiao.PNG</String></Pair>
@@ -257,6 +333,11 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Adventure-Time_Seasonal_Souvenir_Stacker"
+				attr="Adventure-Time_Seasonal_Souvenir_Stacker"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Age_of_War_2"
 				attr="Age_of_War_2"
 				/>
@@ -267,6 +348,16 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Bandicoot"
+				attr="Bandicoot"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Bear_Gunner"
+				attr="Bear_Gunner"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="BLOONS"
 				attr="BLOONS"
 				/>
@@ -274,6 +365,11 @@
 				class="type:x-xmb/module-action"
 				key="Chocobo_Snowboard_Glide"
 				attr="Chocobo_Snowboard_Glide"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Counter_Strike_De_Hiekka"
+				attr="Counter_Strike_De_Hiekka"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -323,8 +419,18 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="High_Flying_Halloween"
+				attr="High_Flying_Halloween"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Impossible_Quiz_Deluxe"
 				attr="Impossible_Quiz_Deluxe"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="justaregulargame"
+				attr="justaregulargame"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -340,6 +446,11 @@
 				class="type:x-xmb/module-action"
 				key="Papa's_Burgeria"
 				attr="Papa's_Burgeria"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Penguins"
+				attr="Penguins"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -363,8 +474,18 @@
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
+				key="Scriball"
+				attr="Scriball"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
 				key="Sling_Sling"
 				attr="Sling_Sling"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Sonic-Crazy-World"
+				attr="Sonic-Crazy-World"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -375,6 +496,17 @@
 				class="type:x-xmb/module-action"
 				key="The_Right_Mix"
 				attr="The_Right_Mix"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="trollface_folder" 
+				attr="trollface_folder"
+				src="#trollface_folder_main"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="wingingit"
+				attr="wingingit"
 				/>
 			<Query   
 				class="type:x-xmb/module-action"
@@ -452,6 +584,73 @@
 				class="type:x-xmb/module-action"
 				key="Fleeing_the_Complex"
 				attr="Fleeing_the_Complex"
+				/>
+			</Items>
+		</View>
+		
+		<View id="trollface_folder_main">
+	    <Attributes>
+		    <Table key="Trollface_Quest">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Trollface_Quest.PNG</String></Pair>
+				<Pair key="title"><String>Trollface Quest</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Trollface_Quest.html</String></Pair>
+			</Table>
+			<Table key="Trollface_Quest_2">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Trollface_Quest_2.PNG</String></Pair>
+				<Pair key="title"><String>Trollface Quest 2</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Trollface_Quest_2.html</String></Pair>
+			</Table>
+			<Table key="Trollface_Quest_3">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Trollface_Quest_3.PNG</String></Pair>
+				<Pair key="title"><String>Trollface Quest 3</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Trollface_Quest_3.html</String></Pair>
+			</Table>
+			<Table key="Trollface_Quest_4">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Trollface_Quest_4.PNG</String></Pair>
+				<Pair key="title"><String>Trollface Quest 4</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Trollface_Quest_4.html</String></Pair>
+			</Table>
+			<Table key="Trollface_Quest_5">
+				<Pair key="icon"><String>/dev_hdd0/game/FGP300001/USRDIR/flash/Trollface_Quest_5.PNG</String></Pair>
+				<Pair key="title"><String>Trollface Quest 5</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://0/dev_hdd0/game/FGP300001/USRDIR/html/Trollface_Quest_5.html</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Trollface_Quest"
+				attr="Trollface_Quest"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Trollface_Quest_2"
+				attr="Trollface_Quest_2"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Trollface_Quest_3"
+				attr="Trollface_Quest_3"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Trollface_Quest_4"
+				attr="Trollface_Quest_4"
+				/>
+			<Query   
+				class="type:x-xmb/module-action"
+				key="Trollface_Quest_5"
+				attr="Trollface_Quest_5"
 				/>
 			</Items>
 		</View>
